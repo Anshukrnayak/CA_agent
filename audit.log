@@ -1,0 +1,220 @@
+2025-05-24 18:47:32,655 - Database transaction added for client default
+2025-05-24 18:47:39,457 - GST filing simulated for client default
+2025-05-24 18:51:23,209 - From D:\CA\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-05-24 18:51:40,001 - Exchange rate fetched for INR: 1
+2025-05-24 18:51:40,001 - Blockchain transaction added: 1deb7d5d4a919a22dcbae1f0e8cc88f229b46ccb4a2937e07b8f7ad23a1f88e8
+2025-05-24 18:51:40,179 - Database transaction added for client default
+2025-05-24 18:52:15,507 - Exchange rate fetched for INR: 1
+2025-05-24 18:52:15,507 - Blockchain transaction added: 21c7c5d771f286ea78c08cdcd6f7d5e887eaf22449665da58b6fac23b206cc24
+2025-05-24 18:52:15,630 - Database transaction added for client default
+2025-05-24 18:52:23,367 - GST filing simulated for client default
+2025-05-24 18:54:42,655 - KYC verified for client default
+2025-05-24 18:54:54,928 - KYC verified for client default
+2025-05-24 18:55:21,699 - KYC verified for client default
+2025-05-24 18:57:02,813 - Exchange rate fetched for INR: 1
+2025-05-24 18:57:02,813 - Blockchain transaction added: f22766b2b853a98732e9b384cd0fcdbe638ceb167599fadeffa6a0c4dfce7a0c
+2025-05-24 18:57:02,945 - Database transaction added for client 1
+2025-05-24 18:57:43,916 - Exchange rate fetched for INR: 1
+2025-05-24 18:57:43,916 - Blockchain transaction added: f22766b2b853a98732e9b384cd0fcdbe638ceb167599fadeffa6a0c4dfce7a0c
+2025-05-24 18:57:44,064 - Database transaction added for client 1
+2025-05-24 19:06:17,963 - Loaded 0 transactions for client_id default
+2025-05-24 19:06:17,963 - No transactions found for client_id default
+2025-05-24 19:06:38,571 - Exchange rate fetched for INR: 1
+2025-05-24 19:06:38,571 - Blockchain transaction added: 678f2c838eaa64bea48910ae74ae654a100f8a726ae50487516c6e61eea5a69c
+2025-05-24 19:06:38,687 - Database transaction added for client default
+2025-05-24 19:06:38,694 - Loaded 0 transactions for client_id default
+2025-05-24 19:06:38,694 - No transactions found for client_id default
+2025-05-24 19:07:04,169 - Loaded 0 transactions for client_id default
+2025-05-24 19:07:04,169 - No transactions found for client_id default
+2025-05-24 19:07:04,169 - Loaded 0 transactions for client_id default
+2025-05-24 19:07:04,169 - No transactions found for client_id default
+2025-05-24 19:07:04,169 - GST filing simulated for client default
+2025-05-24 19:07:13,427 - Loaded 0 transactions for client_id default
+2025-05-24 19:07:13,427 - No transactions found for client_id default
+2025-05-24 19:07:13,427 - No transactions found for client default
+2025-05-24 19:07:20,185 - Loaded 0 transactions for client_id default
+2025-05-24 19:07:20,185 - No transactions found for client_id default
+2025-05-24 19:07:24,597 - Loaded 0 transactions for client_id default
+2025-05-24 19:07:24,612 - No transactions found for client_id default
+2025-05-24 19:10:44,308 - Database initialized with transactions table
+2025-05-24 19:10:44,324 - Querying transactions for client_id default (encrypted: gAAAAABoMcxchrGQHMVnkW3WfBgSopaJVXkzgasvapGaFpbC3H1WdnOuo_ajP494T_7PqZoo3pi-bIpowaZXNtdu7lkE42N15A==)
+2025-05-24 19:10:44,324 - Loaded 0 transactions
+2025-05-24 19:10:44,324 - No transactions found for client_id default
+2025-05-24 19:10:59,126 - Database initialized with transactions table
+2025-05-24 19:10:59,142 - Querying transactions for client_id default (encrypted: gAAAAABoMcxr_JTeoHjh-Nq22eRo2NqwN9EewLYVpv_pFgwm6InnNgjUAcDXCQjj6PfG6YeXdXHrr1fSTt8_VyfqBHkMt-a1lA==)
+2025-05-24 19:10:59,142 - Loaded 0 transactions
+2025-05-24 19:10:59,142 - No transactions found for client_id default
+2025-05-24 19:10:59,142 - Querying all transactions
+2025-05-24 19:10:59,157 - Loaded 0 transactions
+2025-05-24 19:10:59,157 - No transactions found for client_id None
+2025-05-24 19:11:00,984 - Database initialized with transactions table
+2025-05-24 19:11:01,833 - Exchange rate fetched for USD: 0.0117
+2025-05-24 19:11:01,833 - Blockchain transaction added: 9b5cc7ea68c2d87ca4e75cdbc57151a643d403ad7f0931e3fedaf6ced39bb2e9
+2025-05-24 19:11:01,987 - Transaction added for client default, blockchain_hash 9b5cc7ea68c2d87ca4e75cdbc57151a643d403ad7f0931e3fedaf6ced39bb2e9, rows in DB: 1
+2025-05-24 19:11:01,987 - Querying transactions for client_id default (encrypted: gAAAAABoMcxtbLIym69IdGGQo34kIVQMNqje-zvZ-CDZiPEi3vH1ipKp3qqeKKaLmatA-goA0U09Slc2pQQJ_woxrYyLsFlSVg==)
+2025-05-24 19:11:02,002 - Loaded 0 transactions
+2025-05-24 19:11:02,002 - No transactions found for client_id default
+2025-05-24 19:11:02,002 - Querying all transactions
+2025-05-24 19:11:02,018 - Loaded 1 transactions
+2025-05-24 19:11:15,415 - Database initialized with transactions table
+2025-05-24 19:11:16,232 - Exchange rate fetched for USD: 0.0117
+2025-05-24 19:11:16,232 - Blockchain transaction added: a77bef69735ac571a8eb8e6176618b543f258798842b39aa60c392b79f657290
+2025-05-24 19:11:16,354 - Transaction added for client default, blockchain_hash a77bef69735ac571a8eb8e6176618b543f258798842b39aa60c392b79f657290, rows in DB: 1
+2025-05-24 19:11:16,354 - Querying transactions for client_id default (encrypted: gAAAAABoMcx8xpjdOfunXLat5vYcdccYdV-C2-GXclWEmE_03mGc7nFbWMYoIq55vczQDWR7-jCVXCB0AbMHiPenSzoeDv-a1A==)
+2025-05-24 19:11:16,354 - Loaded 0 transactions
+2025-05-24 19:11:16,354 - No transactions found for client_id default
+2025-05-24 19:11:16,372 - Querying all transactions
+2025-05-24 19:11:16,372 - Loaded 1 transactions
+2025-05-24 19:11:33,560 - Database initialized with transactions table
+2025-05-24 19:11:34,361 - Exchange rate fetched for USD: 0.0117
+2025-05-24 19:11:34,361 - Blockchain transaction added: a938da76f8327aa0eae7e5fc80526a32c33595af08f0c1d5971dfa7191f00d75
+2025-05-24 19:11:34,546 - Transaction added for client default, blockchain_hash a938da76f8327aa0eae7e5fc80526a32c33595af08f0c1d5971dfa7191f00d75, rows in DB: 1
+2025-05-24 19:11:34,546 - Querying transactions for client_id default (encrypted: gAAAAABoMcyORvpkdRNzqKu2K-9YuBAyb1VjnsLxiGiony93NDc4wX6rfCYER8Kx5Yl82VLtoe_TuoGEypQI-nVMHWdleTxGCQ==)
+2025-05-24 19:11:34,546 - Loaded 0 transactions
+2025-05-24 19:11:34,546 - No transactions found for client_id default
+2025-05-24 19:11:34,546 - Querying all transactions
+2025-05-24 19:11:34,561 - Loaded 1 transactions
+2025-05-24 19:11:50,769 - Database initialized with transactions table
+2025-05-24 19:11:52,590 - Database initialized with transactions table
+2025-05-24 19:11:52,605 - Querying transactions for client_id default (encrypted: gAAAAABoMcyg4aF1mj-51AwvWgVUIhmboB6CZhB2R_985TI6n7Y055Mhq-YZv_RfAJgJGIabqfPkMUFYEmMl1UOwdAJZnVgT2w==)
+2025-05-24 19:11:52,605 - Loaded 0 transactions
+2025-05-24 19:11:52,605 - No transactions found for client_id default
+2025-05-24 19:11:52,605 - Querying transactions for client_id default (encrypted: gAAAAABoMcygxta78seDwfyocTSBvD3tIc3ArlfHhFRz7qeYhJ9lfmFX-dqThKzHGHVgk_34QZj927jZqjfBWkaT1KzBGmhgAw==)
+2025-05-24 19:11:52,621 - Loaded 0 transactions
+2025-05-24 19:11:52,621 - No transactions found for client_id default
+2025-05-24 19:11:52,636 - GST filing simulated for client default
+2025-05-24 19:11:57,286 - Database initialized with transactions table
+2025-05-24 19:11:58,890 - Database initialized with transactions table
+2025-05-24 19:11:58,890 - Querying transactions for client_id default (encrypted: gAAAAABoMcymwKCBvaAKqPSLpwmXZqfgbrEQ3ZUcY4sv2sQ343kgTk4nlk2zEhstgM5w1pwPqsBwl611xLONJFdzRUpyrzK2fA==)
+2025-05-24 19:11:58,890 - Loaded 0 transactions
+2025-05-24 19:11:58,890 - No transactions found for client_id default
+2025-05-24 19:11:58,905 - No transactions found for client default
+2025-05-24 19:12:04,582 - Database initialized with transactions table
+2025-05-24 19:12:08,631 - Database initialized with transactions table
+2025-05-24 19:12:08,631 - Querying transactions for client_id default (encrypted: gAAAAABoMcywA1WROjGtR2vzuK6BcyAa0YXktNoAs4qC2r_LrcFh3nVUHIMBqiAs_sm5gqFhPrpOVQOSqT2QwNmUfmHj1DSvXw==)
+2025-05-24 19:12:08,646 - Loaded 0 transactions
+2025-05-24 19:12:08,646 - No transactions found for client_id default
+2025-05-24 19:12:13,583 - Database initialized with transactions table
+2025-05-24 19:12:13,583 - Querying transactions for client_id default (encrypted: gAAAAABoMcy1c8-tDp7ip1gwjYZSMGlMrZz3pJI0TvJmLfIt81ahTt3HlXooxkrluD0jiBbdbznWv8l0hthQen1UHs0Cn81Rpg==)
+2025-05-24 19:12:13,599 - Loaded 0 transactions
+2025-05-24 19:12:13,599 - No transactions found for client_id default
+2025-05-24 19:12:17,980 - Database initialized with transactions table
+2025-05-24 19:12:17,980 - Querying transactions for client_id default (encrypted: gAAAAABoMcy5fvwZE-FpdKKJX0J3hi7Lhqhs2jDPa1UXv_oVwFTUsURMlm7ii8XzqurbIPZVOHfGurh99ugwUDnnbgLQ_wk8kw==)
+2025-05-24 19:12:17,980 - Loaded 0 transactions
+2025-05-24 19:12:17,980 - No transactions found for client_id default
+2025-05-24 19:12:22,048 - Database initialized with transactions table
+2025-05-24 19:12:23,895 - Database initialized with transactions table
+2025-05-24 19:12:23,911 - Querying transactions for client_id default (encrypted: gAAAAABoMcy_rnW-7_Ps9i0PAq2RD5GuXnavQ7xwpd18XGZP5bC1NvzTGMI5xjFSx1rug-gslGjmlKxhNYyVSRDxPeLdPttuVw==)
+2025-05-24 19:12:23,911 - Loaded 0 transactions
+2025-05-24 19:12:23,911 - No transactions found for client_id default
+2025-05-24 19:12:23,911 - Querying transactions for client_id default (encrypted: gAAAAABoMcy_ApXuLMdkekCrT0aG5IpKFFMRbaS0_ArEDFIJMhIoCSBUEeWVb1fPHvpthHPHGWMv6VDsGpO6HuXPZ-8PI5usoA==)
+2025-05-24 19:12:23,927 - Loaded 0 transactions
+2025-05-24 19:12:23,927 - No transactions found for client_id default
+2025-05-24 19:12:23,927 - Querying transactions for client_id default (encrypted: gAAAAABoMcy_VsLTvrGEwvev-ZzttPtimRCzn26NR5cyc6jSB87jXNO28sFTl3gAGkjPgaK0tEUy6sfXcZJh3nIC_nzayBRkPw==)
+2025-05-24 19:12:23,927 - Loaded 0 transactions
+2025-05-24 19:12:23,927 - No transactions found for client_id default
+2025-05-24 19:12:23,927 - No transactions found for client default
+2025-05-24 19:12:23,927 - Querying transactions for client_id default (encrypted: gAAAAABoMcy_NGjI7UaKhCYqNSTDRIPdPMN6VvKOmBQgfPLnqrtuYtwKeNmAhfsYgQopKjFbPrrKOc4QZmPtlumtoyB4q0rDlw==)
+2025-05-24 19:12:23,942 - Loaded 0 transactions
+2025-05-24 19:12:23,943 - No transactions found for client_id default
+2025-05-24 19:12:23,964 - PDF generation failed: No LaTex compiler was found
+Either specify a LaTex compiler or make sure you have latexmk or pdfLaTex installed.
+2025-05-24 19:12:41,647 - Database initialized with transactions table
+2025-05-24 19:12:48,180 - Database initialized with transactions table
+2025-05-24 19:12:50,989 - Database initialized with transactions table
+2025-05-24 19:12:53,804 - Database initialized with transactions table
+2025-05-24 19:12:53,822 - Querying transactions for client_id default (encrypted: gAAAAABoMczdWqhhyH-dHFMytvBRNzkvRQbEEbc-RN_-yD_lfL-ysrWOH4lGBnIWOmkHgU0x4DpuJI7pjIw5S3yBMRDNkEZf8g==)
+2025-05-24 19:12:53,822 - Loaded 0 transactions
+2025-05-24 19:12:53,822 - No transactions found for client_id default
+2025-05-24 19:12:59,338 - Database initialized with transactions table
+2025-05-24 19:12:59,353 - Querying transactions for client_id default (encrypted: gAAAAABoMczj4em5O1u4nWZDmliM76D3YfcN4u4GQJQQFxvGm07agBKPds0JiNXCAYbSGQX9iY1JOHi6SBr5D22wFrSfw-0-Sg==)
+2025-05-24 19:12:59,360 - Loaded 0 transactions
+2025-05-24 19:12:59,360 - No transactions found for client_id default
+2025-05-24 19:12:59,360 - Querying all transactions
+2025-05-24 19:12:59,360 - Loaded 0 transactions
+2025-05-24 19:12:59,360 - No transactions found for client_id None
+2025-05-24 19:13:11,421 - Database initialized with transactions table
+2025-05-24 19:13:12,239 - Exchange rate fetched for INR: 1
+2025-05-24 19:13:12,239 - Blockchain transaction added: e315f129f741f0970e63dfbbe0b7bb5ddb91fd5d254db9da153f3e6be1c30f5d
+2025-05-24 19:13:12,361 - Transaction added for client default, blockchain_hash e315f129f741f0970e63dfbbe0b7bb5ddb91fd5d254db9da153f3e6be1c30f5d, rows in DB: 1
+2025-05-24 19:13:12,361 - Querying transactions for client_id default (encrypted: gAAAAABoMczwe_UlfG7IlUtngidzIpDthwW5_Jv81eju_jcwgnZY3lJylZlwB455bUHdD7oWcfoZJ-662ERW7mWg6E-_HvCI-Q==)
+2025-05-24 19:13:12,361 - Loaded 0 transactions
+2025-05-24 19:13:12,361 - No transactions found for client_id default
+2025-05-24 19:13:12,361 - Querying all transactions
+2025-05-24 19:13:12,361 - Loaded 1 transactions
+2025-05-24 19:13:44,874 - Database initialized with transactions table
+2025-05-24 19:13:44,892 - Querying transactions for client_id default (encrypted: gAAAAABoMc0QmUwhcLMacuIo_Yj21h3yilEIlOGVQxDLhpr9_lTh_s-hV9pu1ZKvXAvf-2g5AWOVaMTetS-CfnVJe3SpSlOVJQ==)
+2025-05-24 19:13:44,892 - Loaded 0 transactions
+2025-05-24 19:13:44,892 - No transactions found for client_id default
+2025-05-24 19:20:03,711 - Database initialized with transactions table
+2025-05-24 19:20:03,739 - Querying transactions for client_id default (encrypted: gAAAAABoMc6LB4hjpbmBkPk9HJCMiDjk51OOp4d6ygk05FHGEbWELH7dd_1cUeKxzEWVh2tD6cfDprtNCEYZlmqe0AdFKp5r9g==)
+2025-05-24 19:20:03,743 - Loaded 0 transactions
+2025-05-24 19:20:03,747 - No transactions found for client_id default
+2025-05-24 19:20:07,224 - Database initialized with transactions table
+2025-05-24 19:20:16,874 - Database initialized with transactions table
+2025-05-24 19:20:16,899 - Querying transactions for client_id default (encrypted: gAAAAABoMc6YHhQ_C2JZuB2GPnGTIrn6JJ_vg-Yp_RZ2CFZGeFQRV_QMQtzMNFWq0W2s8shiEmliSGo_K4CTUNiEIE8-IwFxCg==)
+2025-05-24 19:20:16,904 - Loaded 0 transactions
+2025-05-24 19:20:16,904 - No transactions found for client_id default
+2025-05-24 19:20:35,019 - Database initialized with transactions table
+2025-05-24 19:20:36,024 - Exchange rate fetched for INR: 1
+2025-05-24 19:20:36,024 - Blockchain transaction added: 8afec92e7d21908fa1430fb123ee6f80406517c2be092218179a1969777d02b9
+2025-05-24 19:20:36,235 - Transaction added for client default, blockchain_hash 8afec92e7d21908fa1430fb123ee6f80406517c2be092218179a1969777d02b9, rows in DB: 1
+2025-05-24 19:20:36,255 - Querying transactions for client_id default (encrypted: gAAAAABoMc6sjThUnr2IhbbUTnokODAp6eO9zetCurPUxHzWK_tszx5Hjwuv8KHgY5DwP9Jdvd3ZZP7Ki0H---Or_4Yf5iu3qw==)
+2025-05-24 19:20:36,265 - Loaded 0 transactions
+2025-05-24 19:20:36,265 - No transactions found for client_id default
+2025-05-24 19:20:38,341 - Database initialized with transactions table
+2025-05-24 19:20:38,369 - Querying transactions for client_id default (encrypted: gAAAAABoMc6u4lo6V7h_synz9P7xnKoeTkQyO1KrK_EC9fosImeJQtMFkDbsD_GQN-9kZNsH0QNZC2zWHFcwLsEElrYCiGmXNA==)
+2025-05-24 19:20:38,374 - Loaded 0 transactions
+2025-05-24 19:20:38,375 - No transactions found for client_id default
+2025-05-24 19:20:38,375 - Querying all transactions
+2025-05-24 19:20:38,379 - Loaded 1 transactions
+2025-05-24 19:24:28,267 - Database initialized with transactions table
+2025-05-24 19:24:30,003 - Database initialized with transactions table
+2025-05-24 19:24:30,019 - Querying transactions for client_id default (query: gAAAAABoMc-WIGZosJb8YzkrjjTLxgUiYXaxw-ioT7QmcynJT5o7u1spDf3zbIbd1Ru8hBL5nbTr7TnncjIaZ1wxHaj3lk55Sw==)
+2025-05-24 19:24:30,026 - Loaded 0 transactions
+2025-05-24 19:24:30,026 - Querying transactions for client_id default (query: gAAAAABoMc-Wt0rGZLfxbXI6AiY0y7qqegmt3CDWaTer1UV1LcOzxLTxWxS4ZAX18DZJ-d0ZBJHmv35w-bU5-I9dhwehFxGSvA==)
+2025-05-24 19:24:30,026 - Loaded 0 transactions
+2025-05-24 19:24:30,041 - GST filing simulated for client default
+2025-05-24 19:24:35,815 - Database initialized with transactions table
+2025-05-24 19:24:37,241 - Database initialized with transactions table
+2025-05-24 19:24:37,257 - Querying transactions for client_id default (query: gAAAAABoMc-dv4cGqrnA-V2VPcqI5HgdNfawXqcCvopBnH5n29wlMV9cL3DxlPfJGaVWLqubvcHCbi9XeB26ewkoL8E2nLKcGQ==)
+2025-05-24 19:24:37,257 - Loaded 0 transactions
+2025-05-24 19:24:37,257 - No transactions found for client default
+2025-05-24 19:24:41,229 - Database initialized with transactions table
+2025-05-24 19:24:45,340 - Database initialized with transactions table
+2025-05-24 19:24:45,361 - Querying transactions for client_id default (query: gAAAAABoMc-lBCovOK8l8YO9Mgm_2xzmV81EJo-irefuBUPU75HQFyualuuio9n9Sa_ne0IEZC7rbSFnMMNhXQNB1uR--cqczg==)
+2025-05-24 19:24:45,361 - Loaded 0 transactions
+2025-05-24 19:24:48,382 - Database initialized with transactions table
+2025-05-24 19:24:48,382 - Querying transactions for client_id default (query: gAAAAABoMc-oIWFS1YjG4XOjvwR_ohMIeV01PnTuhHjXGkJeXvl8iMyjvzonRAQQ3jrwS_VER3LG-JN2L7RUJKmEupcTHxhtPg==)
+2025-05-24 19:24:48,398 - Loaded 0 transactions
+2025-05-24 19:24:51,296 - Database initialized with transactions table
+2025-05-24 19:24:53,344 - Database initialized with transactions table
+2025-05-24 19:24:53,360 - Querying transactions for client_id default (query: gAAAAABoMc-t7qjLXoR6g5tbxl_NSw7zx1wXOfZTK4kOhSgDhfn0EHaqXMLXLFE62sowMSVlnbBJMwjHgGn-I5yVBnyZyyyJdg==)
+2025-05-24 19:24:53,360 - Loaded 0 transactions
+2025-05-24 19:24:53,360 - Querying transactions for client_id default (query: gAAAAABoMc-tZlJdqZr43O5bMXYv0_x6zpOWOlE7HtL1VF3rz_x2Th1AnYNPYLSduOW3fadPSwSWmOqUi1SX8erMedSauhIeKA==)
+2025-05-24 19:24:53,378 - Loaded 0 transactions
+2025-05-24 19:24:53,378 - Querying transactions for client_id default (query: gAAAAABoMc-tqMuytrnICJCaz9slZjaqgVb2r2VUkdloMj4Dv3gRmJRTlKgaYXMJPuaJj1NWWDMl1bQQHPt6-bigPnWPBpAThA==)
+2025-05-24 19:24:53,378 - Loaded 0 transactions
+2025-05-24 19:24:53,378 - No transactions found for client default
+2025-05-24 19:24:53,378 - Querying transactions for client_id default (query: gAAAAABoMc-to9zofd9slO_HPLMP0-wG3h9Jnk2ZdMh4lK6Rnyac0kDLk0LGxJgrRkkPmjIG90BGFGqo2Ib-gPwu6iHT_SjdYQ==)
+2025-05-24 19:24:53,394 - Loaded 0 transactions
+2025-05-24 19:24:53,409 - pdflatex not found; saved LaTeX source to financial_report.tex
+2025-05-24 19:25:03,067 - Database initialized with transactions table
+2025-05-24 19:25:25,689 - Database initialized with transactions table
+2025-05-24 19:26:30,987 - Database initialized with transactions table
+2025-05-24 19:26:33,241 - Database initialized with transactions table
+2025-05-24 19:26:33,257 - Querying transactions for client_id default (query: gAAAAABoMdARPWE0IFYajh9HeSL-AIWQZuJQwIKvWOBcL_h6cJ6O44Vpxj1pXeuZkyk5hDenKyZ3ey9-XKofT-yD1UZTa366wg==)
+2025-05-24 19:26:33,257 - Loaded 0 transactions
+2025-05-24 19:26:33,257 - Querying transactions for client_id default (query: gAAAAABoMdAR9nXZNMZLZfQlHzkRVF96B1jLa1mxZL7R-W1gP3Skr4RXc8CJTHCH1jt26JI9OFDUbGon9C_qT6BKOk8FeI8r3w==)
+2025-05-24 19:26:33,272 - Loaded 0 transactions
+2025-05-24 19:26:33,272 - GST filing simulated for client default
+2025-05-24 19:47:16,715 - Database initialized with transactions table
+2025-05-24 19:47:16,746 - Querying transactions for client_id default (query: gAAAAABoMdTsmis__haCv-UI__Xr7T2s0hevmqkmk2vc6EO_OFEO6WlYEZqvDdp3HY-cwKppoYEYe8k6c0nDKbytyI-Sk02olg==)
+2025-05-24 19:47:16,768 - Loaded 0 transactions
+2025-05-24 19:47:16,768 - Querying transactions for client_id default (query: gAAAAABoMdTsflLV1L9Z_gnDNrZsVW9AY9Szx0_-saoZZTQBMOjvURokPQQdQfCXqiWVIKyaJIKaQ5y6tQtkcinxs46XwZSd4g==)
+2025-05-24 19:47:16,768 - Loaded 0 transactions
+2025-05-24 19:47:16,784 - GST filing simulated for client default
+2025-05-24 20:15:03,150 - Database initialized with transactions table
+2025-05-24 20:15:03,163 - Querying transactions for client_id default (query: gAAAAABoMdtvBQfH_QVLplHyg98YzzJqgd3iPYLTvK1UnzTwCE6YQUon3YlfVL4st8MjC2pzVY4hzdqCPWic07NTXDXyC_EAjQ==)
+2025-05-24 20:15:03,169 - Loaded 0 transactions
